@@ -26,3 +26,4 @@ For other platforms, download installer from here
 Install python binding for imagemagick, wand, using this pip command:
 
 pip install wand
+
